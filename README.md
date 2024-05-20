@@ -153,6 +153,9 @@ http://www.blendswap.com/blends/view/70259
 Voice:
 http://onlinetonegenerator.com/voice-generator.html
 
+ChatGPT:
+https://chatgptlogindeutsch.de/
+
 Other Third Party:
 
 1. SFX by Freesound.org
